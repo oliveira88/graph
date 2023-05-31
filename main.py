@@ -72,9 +72,5 @@ def solve(pretty_print = False) -> None:
     else:
         count_and_print(families, pretty_print)
 
-
-
-          
-
 solve(True)
 # print(ler_arquivo("./txts/arquivo2.txt"))
